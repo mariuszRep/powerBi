@@ -1,0 +1,36 @@
+{      
+"attributes": [
+        {
+          "name": "text",
+          "dataType": "string"
+        },
+        {
+          "name": "decimal number",
+          "dataType": "double"
+        },
+        {
+          "name": "currency",
+          "dataType": "decimal"
+        },
+        {
+          "name": "whole number",
+          "dataType": "int64"
+        },
+        {
+          "name": "date time",
+          "dataType": "dateTime"
+        },
+        {
+          "name": "date",
+          "dataType": "date"
+        },
+        {
+          "name": "date time zone",
+          "dataType": "dateTimeOffset"
+        },
+        {
+          "name": "logical",
+          "dataType": "boolean"
+        }
+      ]
+}
